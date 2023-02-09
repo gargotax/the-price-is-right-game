@@ -1,0 +1,15 @@
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\bin\Debug\net6.0\JustePrixFR.exe
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\bin\Debug\net6.0\JustePrixFR.deps.json
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\bin\Debug\net6.0\JustePrixFR.runtimeconfig.json
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\bin\Debug\net6.0\JustePrixFR.dll
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\bin\Debug\net6.0\JustePrixFR.pdb
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\obj\Debug\net6.0\JustePrixFR.csproj.AssemblyReference.cache
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\obj\Debug\net6.0\JustePrixFR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\obj\Debug\net6.0\JustePrixFR.AssemblyInfoInputs.cache
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\obj\Debug\net6.0\JustePrixFR.AssemblyInfo.cs
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\obj\Debug\net6.0\JustePrixFR.csproj.CoreCompileInputs.cache
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\obj\Debug\net6.0\JustePrixFR.dll
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\obj\Debug\net6.0\refint\JustePrixFR.dll
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\obj\Debug\net6.0\JustePrixFR.pdb
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\obj\Debug\net6.0\JustePrixFR.genruntimeconfig.cache
+C:\Users\hache\desktop\cours web developpement\C#\JustePrixFR\JustePrixFR\obj\Debug\net6.0\ref\JustePrixFR.dll
